@@ -12,7 +12,7 @@
 
 <br />
 
-I work on the layer underneath good AI: context, memory, and the data systems that let models actually know something. Then I try to put that to work — in loops that get better, and in tools small businesses can use.
+I work on the layer underneath good AI: context, memory, and the data systems that let models actually know something. Then I try to put that to work — in loops that get better, and in applied systems people can actually use.
 
 ### Focus
 
@@ -22,7 +22,7 @@ I work on the layer underneath good AI: context, memory, and the data systems th
 | **Context engineering** | The prompts, memory, and retrieval that turn a model into a system. |
 | **Data layers for AI** | Trusted context that people and agents can share. |
 | **RSI** | Recursive self-improvement — systems that inspect their own work and get better. |
-| **Tech for SMBs** | Applying all of the above to real operators, not just labs. |
+| **Applied AI** | Putting models to work on real problems, not just demos. |
 
 ### Elsewhere
 

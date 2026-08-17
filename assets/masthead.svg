@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-labelledby="title desc">
   <title id="title">Amadeus Colenbrander</title>
-  <desc id="desc">Context engineering, data layers for AI, recursive self-improvement, and tech for small businesses.</desc>
+  <desc id="desc">Context engineering, data layers for AI, recursive self-improvement, and applied AI.</desc>
   <style>
     .kicker { fill: #53606E; font: 600 12px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 3.2px; }
     .name { fill: #18202B; font: 650 42px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -0.8px; }
