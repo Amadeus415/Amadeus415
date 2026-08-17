@@ -4,9 +4,7 @@
 
 ### Hi, I'm Amadeus.
 
-I live in San Francisco and spend most of my time building with AI.
-
-**Interested in**
+I live in SF. Some things I'm working on:
 - AI models
 - Context engineering
 - Data / context layers for AI
