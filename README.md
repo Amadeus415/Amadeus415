@@ -4,7 +4,7 @@
 
 ### Hi, I'm Amadeus.
 
-I'm a data engineer at Autodesk in San Francisco. I own the supplier domain in our enterprise data layer and build the apps and AI agents that sit on top of it. Outside work I build things like these, and every number below comes from a script in the repo.
+I'm a data engineer at Autodesk in San Francisco. Here is a few side projects.
 
 | Project | What it is | Measured |
 | --- | --- | --- |
