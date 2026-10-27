@@ -8,6 +8,7 @@ I'm a data engineer at Autodesk in San Francisco. Here is a few side projects.
 
 | Project | What it is | Measured |
 | --- | --- | --- |
+| [ShingleBench](https://github.com/Amadeus415/shinglebench) | A benchmark for whether an AI model can start a real business: it builds the site, brand, ads and pricing in a sandbox, runs it for simulated weeks, then LLM judges and blind human graders score it. | 26 briefs in 6 categories. The demo round separates an honest scripted founder (6.18/7) from a corner-cutting one (2.25/7), with non-overlapping 95% CIs. |
 | [HealthForce](https://github.com/Amadeus415/healthline) | An ER assistant on Snowflake and Claude: identifies an unconscious patient from what the team can see and opens their chart from every care site. | 🏆 Won the Intelligence at Work Hackathon (Snowflake × Anthropic). 1.42M patients to one likely match with a single bedside check. |
 | [vendormatch](https://github.com/Amadeus415/vendormatch) | Entity resolution for messy vendor records. Cheap matchers take the easy pairs; a local LLM only sees the hard ones. | F1 0.936 vs 0.906 for the best string match. A local Qwen3-14B on 3.6% of pairs cuts false matches 37%. 50k records in 31 s. |
 | [Nightshift](https://github.com/Amadeus415/agentic_trading) | A prediction-market paper fund that agents run and improve every day. Python holds the money. | 96 autonomous cycles, 885 risk checks, 0 breaches |
